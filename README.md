@@ -6,10 +6,13 @@ Most of the commits in this repository correspond to videos in the program. My c
 
 ## Project Setup
 
-1.  Clone the Project - `https://github.com/joselimaneto/react-contacts-app.git`
+1.  Clone the Contact Project - `https://github.com/joselimaneto/react-contacts-app.git`
 2.  Go into the directory where the project now lives - `cd react-contacts-app`
 3.  Install the dependencies - `npm install`
 4.  Start the app - `npm start`
+5.  Clone the Contact Back-end Server Project - `git clone https://github.com/udacity/reactnd-contacts-server.git`
+6.  Install server's dependencies - `npm install`
+7.  Start the server - `node server.js`
 
 ## Contributing
 
